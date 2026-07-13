@@ -26,7 +26,6 @@
       "api": "./js/live2vod.js",
       "ext": "./js/feimaolive.json"
     },
-    
     {
       "key": "暴風采集",
       "name": "💎暴風｜影视",
@@ -51,8 +50,26 @@
       "changeable": 1
     },
     {
+      "key": "腾云驾雾js",
+      "name": "💨腾云｜4K",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/腾云驾雾.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "芒果4Kjs",
+      "name": "🥭芒果｜4K",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/芒果4K.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "海棠py",
-      "name": "🍀海棠｜影视",
+      "name": "🍀海棠｜4K",
       "type": 3,
       "api": "./py/海棠.py",
       "searchable": 1,
@@ -72,7 +89,6 @@
       "order_num": 0,
       "changeable": 0
     },
-    
     {
       "key": "毒蛇影视py",
       "name": "🐍毒蛇｜影视",
@@ -129,7 +145,6 @@
       "quickSearch": 1,
       "ext": "./js/云看影视.js"
     },
-    
     {
       "key": "猪猪影院js",
       "name": "🐽猪猪｜影视",
@@ -149,7 +164,6 @@
       "order_num": 0,
       "changeable": 0
     },
-
     {
       "key": "大马猴影视js",
       "name": "🐒马猴｜影视",
@@ -204,7 +218,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
     {
       "key": "优夏影视js",
       "name": "🌺优夏｜影视",
@@ -214,7 +227,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
     {
       "key": "慕白影视js",
       "name": "🍭慕白｜影视",
@@ -264,7 +276,14 @@
       "api": "./py/盛世蓝光.py",
       "ext": "http://43.248.117.123:4680"
     },
-    
+    {
+      "key": "即看影视py",
+      "name": "👁️即看｜影视",
+      "type": 3,
+      "api": "./py/即看.py",
+      "searchable": 1,
+      "changeable": 1
+    },
     {
       "key": "七星短剧py",
       "name": "🌟七星｜短剧",
@@ -317,7 +336,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    }, 
+    },
     {
       "key": "妞妞短剧py",
       "name": "👧妞妞｜短剧",
@@ -329,7 +348,6 @@
       "filterable": 1,
       "playerType": 2
     },
-    
     {
       "key": "去看吧动漫js",
       "name": "👀去看｜动漫",
@@ -339,7 +357,6 @@
       "searchable": 1,
       "changeable": 1
     },
-    
     {
       "key": "MiFunpy",
       "name": "🍚MF｜动漫",
@@ -376,7 +393,6 @@
       "searchable": 1,
       "changeable": 1
     }
-    
   ],
   "lives": [
     {
