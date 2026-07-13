@@ -50,15 +50,6 @@
       "changeable": 1
     },
     {
-      "key": "腾云驾雾js",
-      "name": "💨腾云｜4K",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/腾云驾雾.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "芒果4Kjs",
       "name": "🥭芒果｜4K",
       "type": 3,
