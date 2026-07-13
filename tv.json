@@ -58,6 +58,14 @@
       "searchable": 1,
       "changeable": 1
     },
+{
+      "key": "布布4Kjs",
+      "name": "🐣布布｜4K",
+      "type": 3,
+      "api": "./js/布布4K.js",
+      "searchable": 1,
+      "changeable": 1
+    },
     {
       "key": "海棠py",
       "name": "🍀海棠｜4K",
