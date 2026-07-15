@@ -51,15 +51,6 @@
     },
     
     {
-      "key": "芒果4Kjs",
-      "name": "🥭芒果｜4K",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/芒果4K.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "布布4Kjs",
       "name": "🐣布布｜4K",
       "type": 3,
