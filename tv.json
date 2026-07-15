@@ -49,6 +49,7 @@
       "searchable": 1,
       "changeable": 1
     },
+    
     {
       "key": "芒果4Kjs",
       "name": "🥭芒果｜4K",
@@ -58,7 +59,7 @@
       "searchable": 1,
       "changeable": 1
     },
-{
+    {
       "key": "布布4Kjs",
       "name": "🐣布布｜4K",
       "type": 3,
@@ -277,9 +278,35 @@
     },
     {
       "key": "即看影视py",
-      "name": "👁️即看｜影视",
+      "name": "👁即看｜影视",
       "type": 3,
       "api": "./py/即看.py",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "电影人生js",
+      "name": "🏂人生｜影视",
+      "type": 3,
+      "api": "./js/电影人生.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "4k影视js",
+      "name": "🧊高清｜影视",
+      "type": 3,
+      "api": "./js/4KVM.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "丧尸片py",
+      "name": "🎃丧尸｜影视",
+      "type": 3,
+      "api": "./py/丧尸片.py",
       "searchable": 1,
       "changeable": 1
     },
