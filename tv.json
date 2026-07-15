@@ -302,6 +302,14 @@
       "changeable": 1
     },
     {
+      "key": "瓜子py",
+      "name": "🪴瓜子｜影视",
+      "type": 3,
+      "api": "./py/瓜子影视.py",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "七星短剧py",
       "name": "🌟七星｜短剧",
       "type": 3,
